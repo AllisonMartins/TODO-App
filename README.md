@@ -1,5 +1,6 @@
 # TODO-App
 TODO app with React JS + Firebase // TODO app feito com React JS + Firebase
+aplicação em tempo real : https://todo-app-cp-a1d00.web.app/
 
 Aplicação criada usando firebase com banco de dados em tempo real
 
